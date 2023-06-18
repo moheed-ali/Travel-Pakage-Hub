@@ -4,9 +4,6 @@ This repository contains SQL code for creating and populating a database for a t
 
 ## Installation
 
-
-### Students Portal
-
 1. Clone the repository or download the SQL code.
 2. Open SQL Server Management Studio.
 3. Connect to your SQL Server instance.
